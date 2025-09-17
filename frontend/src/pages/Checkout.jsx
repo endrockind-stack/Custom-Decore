@@ -1,0 +1,1 @@
+export default function Checkout(){return (<div className='p-6 max-w-3xl mx-auto'><h2 className='text-2xl font-bold'>Checkout (Test)</h2><p className='text-gray-600'>Stripe test checkout will be available after backend deployment.</p></div>)}
